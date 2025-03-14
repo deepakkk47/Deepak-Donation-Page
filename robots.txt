@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://deepakkk47.github.io/Deepak-Donation-Page/sitemap.xml
